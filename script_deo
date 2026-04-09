@@ -3,6 +3,6 @@
 #SBATCH -N 2
 #SBATCH --ntasks-per-node=16
 #SBATCH -t 00:20:00
-#SBATCH -A naiss2025-22-1789
+#SBATCH -A xxx
 
 mpprun /software/sse/manual/vasp/5.4.4.16052018/nsc1/vasp_std
